@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "One Thing",
+  "base_artist": "One Direction",
+  "createdAt": "2025-12-01T11:31:46.295119Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "One Thing Right",
+      "artist": "Marshmello feat. Kane Brown",
+      "has_synced": true,
+      "path": "select/01_One_Thing_Right_Marshmello_feat._Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "One Thing Right",
+      "artist": "Marshmello",
+      "has_synced": true,
+      "path": "select/02_One_Thing_Right_Marshmello.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Thing",
+      "artist": "Luscious Jackson",
+      "has_synced": false,
+      "path": "select/03_One_Thing_Luscious_Jackson.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One Thing Left to Try",
+      "artist": "MGMT",
+      "has_synced": true,
+      "path": "select/04_One_Thing_Left_to_Try_MGMT.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One Thing",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/05_One_Thing_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One Thing",
+      "artist": "Lapalux",
+      "has_synced": true,
+      "path": "select/06_One_Thing_Lapalux.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The One Thing",
+      "artist": "INXS",
+      "has_synced": true,
+      "path": "select/07_The_One_Thing_INXS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One Thing",
+      "artist": "Nicole Millar",
+      "has_synced": true,
+      "path": "select/08_One_Thing_Nicole_Millar.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One Thing Leads To Another",
+      "artist": "RAIGN",
+      "has_synced": false,
+      "path": "select/09_One_Thing_Leads_To_Another_RAIGN.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One Thing",
+      "artist": "Beach House",
+      "has_synced": true,
+      "path": "select/10_One_Thing_Beach_House.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "One Thing (Bassnectar Remix)",
+      "artist": "Psymbionic feat. Of The Trees & Cristina Soto",
+      "has_synced": true,
+      "path": "select/11_One_Thing_(Bassnectar_Remix)_Psymbionic_feat._Of_The_Trees_&_Cristina_Soto.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "This Is the One Thing We Did Not Want to Have Happen",
+      "artist": "The Brian Jonestown Massacre",
+      "has_synced": false,
+      "path": "select/12_This_Is_the_One_Thing_We_Did_Not_Want_to_Have_Happen_The_Brian_Jonestown_Massacre.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "One Thing",
+      "artist": "Bonobo",
+      "has_synced": false,
+      "path": "select/13_One_Thing_Bonobo.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Only One Thing Is Needed",
+      "artist": "Electrelane",
+      "has_synced": false,
+      "path": "select/14_Only_One_Thing_Is_Needed_Electrelane.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "One Thing Leads To Another - Live (Canada)",
+      "artist": "The Fixx",
+      "has_synced": false,
+      "path": "select/15_One_Thing_Leads_To_Another_-_Live_(Canada)_The_Fixx.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "One thing",
+      "artist": "One direction",
+      "has_synced": false,
+      "path": "select/pl_01_One_thing_One_direction.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "The One Thing",
+      "artist": "One direction",
+      "has_synced": false,
+      "path": "select/pl_02_The_One_Thing_One_direction.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ONE THING",
+      "artist": "One direction",
+      "has_synced": false,
+      "path": "select/pl_03_ONE_THING_One_direction.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "One Thing",
+      "artist": "One direction",
+      "has_synced": false,
+      "path": "select/pl_04_One_Thing_One_direction.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "One Thing [Cbsmgrfc Topgear Mix]",
+      "artist": "One direction",
+      "has_synced": false,
+      "path": "select/pl_05_One_Thing_[Cbsmgrfc_Topgear_Mix]_One_direction.txt"
+    }
+  ]
+}
